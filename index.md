@@ -1,6 +1,6 @@
 
 ##  ⭐Good news (2021.07.01)，<font size=15>课题组有3篇论文被2021 ACM MM接收！</font>
-<img width="600" height="365" src="https://github.com/mintanwei/mintanwei.github.io/blob/main/fd.jpg"/>     
+![login](https://github.com/mintanwei/mintanwei.github.io/blob/main/fd.jpg)
 <br/>
 
 
