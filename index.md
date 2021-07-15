@@ -5,7 +5,7 @@
 
 
 ### 谭伟敏 (Weimin Tan)，复旦大学，计算机科学技术学院，青年研究员
-<img width="120" height="142" src="https://github.com/mintanwei/mintanwei.github.io/blob/main/wmtan.jpg"/>  Email: wmtan@fudan.edu.cn
+<img width="125" height="148" src="https://github.com/mintanwei/mintanwei.github.io/blob/main/wmtan.jpg"/>  Email: wmtan@fudan.edu.cn
 
 博士，中共党员，博士，复旦大学 计算机科学技术学院 青年研究员，硕士研究生导师。在IEEE TIP、TCSVT、TMM、CVPR、AAAI、ACM MM、GIE等IEEETrans.等国际期刊和CCF A类会议上发表论文20多篇。主持国家自然科学青年基金、国家“博士后创新人才支持计划”（博新计划）、上海市“超级博士后激励计划”。获得2016年CCF主办的全国多媒体技术学术会议“最佳论文奖”、2018年中国图象图形学学会优秀博士学位论文提名奖、2019年度中国图象图形学学会科学技术奖二等奖（排名第二）、2020年度教育部自然科学二等奖（排名第二）。
 
