@@ -45,17 +45,17 @@
 4. 获2016年度中国计算机学会（CCF）主办的全国多媒体技术学术会议(NCMT-National Conference on Multimedia Technology)最佳论文奖（Best paper）.
 
 ### 部分发表论文
-1. Weimin Tan, Bo Yan, Ke Li, Qi Tian. Image Retargeting for Preserving Robust Local Feature: Application to Mobile Visual Search. IEEE Trans. Multim. 18(1): 128-137 (2016)
-2. Weimin Tan, Bo Yan. A survey on high coherence visual media retargeting: recent advances and applications. Frontiers Comput. Sci. 10(5): 778-796 (2016) (邀稿论文)
-3. Bo Yan, Weimin Tan, Ke Li, Qi Tian. Codebook Guided Feature-Preserving for Recognition-Oriented Image Retargeting. IEEE Trans. Image Process. 26(5): 2454-2465 (2017)
-4. Weimin Tan, Bo Yan. Salient object detection via multiple saliency weights. Multim. Tools Appl. 76(23): 25091-25107 (2017) (NCMT'2016 Best paper)
-5. Weimin Tan, Bo Yan, Bahetiyaer Bare. Feature Super-Resolution: Make Machine See More Clearly. CVPR 2018: 3994-4002
-6. Weimin Tan, Bo Yan, Chuming Lin. Beyond Visual Retargeting: A Feature Retargeting Approach for Visual Recognition and Its Applications. IEEE Trans. Circuits Syst. Video Technol. 28(11): 3154-3162 (2018)
-7. Bo Yan, Chuming Lin, Weimin Tan. Frame and Feature-Context Video Super-Resolution. AAAI 2019, 5597-5604
-8. W Tan, B Yan, C Lin, X Niu. Cycle-IR: Deep cyclic image retargeting. IEEE Transactions on Multimedia 22 (7), 1730-1743
-9. Bo Yan, Bahetiyaer Bare, Chenxi Ma, Ke Li, Weimin Tan. Deep Objective Quality Assessment Driven Single Image Super-Resolution. IEEE Trans. Multim. 21(11): 2957-2971 (2019)
-10. Bo Yan, Bahetiyaer Bare, Weimin Tan. Naturalness-Aware Deep No-Reference Image Quality Assessment. IEEE Trans. Multim. 21(10): 2603-2615 (2019)
-11. Bo Yan, Weimin Tan, Chuming Lin, Liquan Shen. Fine-Grained Motion Estimation for Video Frame Interpolation. IEEE Trans. Broadcast. 67(1): 174-184 (2021)
-12. Bo Yan, Chenxi Ma, Bahetiyaer Bare, Weimin Tan, Steven C. H. Hoi. Disparity-Aware Domain Adaptation in Stereo Image Restoration. CVPR 2020: 13176-13184
-13. Bo Yan, Qing Lin, Weimin Tan, Shili Zhou. Assessing Eye Aesthetics for Automatic Multi-Reference Eye In-Painting. CVPR 2020: 13506-13514
-14. Qing Lin, Bo Yan, Jichun Li, Weimin Tan. MMFL: Multimodal Fusion Learning for Text-Guided Image Inpainting. ACM Multimedia 2020: 1094-1102
+* Weimin Tan, Bo Yan, Ke Li, Qi Tian. Image Retargeting for Preserving Robust Local Feature: Application to Mobile Visual Search. IEEE Trans. Multim. 18(1): 128-137 (2016)
+* Weimin Tan, Bo Yan. A survey on high coherence visual media retargeting: recent advances and applications. Frontiers Comput. Sci. 10(5): 778-796 (2016) (邀稿论文)
+* Bo Yan, Weimin Tan, Ke Li, Qi Tian. Codebook Guided Feature-Preserving for Recognition-Oriented Image Retargeting. IEEE Trans. Image Process. 26(5): 2454-2465 (2017)
+* Weimin Tan, Bo Yan. Salient object detection via multiple saliency weights. Multim. Tools Appl. 76(23): 25091-25107 (2017) (NCMT'2016 Best paper)
+* Weimin Tan, Bo Yan, Bahetiyaer Bare. Feature Super-Resolution: Make Machine See More Clearly. CVPR 2018: 3994-4002
+* Weimin Tan, Bo Yan, Chuming Lin. Beyond Visual Retargeting: A Feature Retargeting Approach for Visual Recognition and Its Applications. IEEE Trans. Circuits Syst. Video Technol. 28(11): 3154-3162 (2018)
+* Bo Yan, Chuming Lin, Weimin Tan. Frame and Feature-Context Video Super-Resolution. AAAI 2019, 5597-5604
+* W Tan, B Yan, C Lin, X Niu. Cycle-IR: Deep cyclic image retargeting. IEEE Transactions on Multimedia 22 (7), 1730-1743
+* Bo Yan, Bahetiyaer Bare, Chenxi Ma, Ke Li, Weimin Tan. Deep Objective Quality Assessment Driven Single Image Super-Resolution. IEEE Trans. Multim. 21(11): 2957-2971 (2019)
+* Bo Yan, Bahetiyaer Bare, Weimin Tan. Naturalness-Aware Deep No-Reference Image Quality Assessment. IEEE Trans. Multim. 21(10): 2603-2615 (2019)
+* Bo Yan, Weimin Tan, Chuming Lin, Liquan Shen. Fine-Grained Motion Estimation for Video Frame Interpolation. IEEE Trans. Broadcast. 67(1): 174-184 (2021)
+* Bo Yan, Chenxi Ma, Bahetiyaer Bare, Weimin Tan, Steven C. H. Hoi. Disparity-Aware Domain Adaptation in Stereo Image Restoration. CVPR 2020: 13176-13184
+* Bo Yan, Qing Lin, Weimin Tan, Shili Zhou. Assessing Eye Aesthetics for Automatic Multi-Reference Eye In-Painting. CVPR 2020: 13506-13514
+* Qing Lin, Bo Yan, Jichun Li, Weimin Tan. MMFL: Multimodal Fusion Learning for Text-Guided Image Inpainting. ACM Multimedia 2020: 1094-1102
