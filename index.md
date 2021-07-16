@@ -1,8 +1,8 @@
 
-###  ⭐ Latest news (2021.07.01)，<font size=15>课题组有3篇论文被2021 ACM MM接收！</font>
+###  ⭐ Latest news (2021.07.01) 课题组有3篇论文被2021 ACM MM接收！
+<br/>
 <img width="600" height="365" src="fd.jpg"/>
 <br/>
-
 
 ### 谭伟敏 (Weimin Tan)，复旦大学，计算机科学技术学院，青年研究员
 <img width="125" height="148" src="wmtan.jpg"/>  Email: wmtan@fudan.edu.cn
