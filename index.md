@@ -1,5 +1,5 @@
 
-###  ⭐ Latest news (2021.07.01) 课题组有3篇论文被2021 ACM MM接收！
+##  ⭐ Latest news (2021.07.01) 课题组有3篇论文被2021 ACM MM接收！
 <br/>
 <img width="600" height="365" src="fd.jpg"/>
 <br/>
@@ -10,9 +10,9 @@
 博士，中共党员，博士，复旦大学 计算机科学技术学院 青年研究员，硕士研究生导师。在IEEE TIP、TCSVT、TMM、CVPR、AAAI、ACM MM、GIE等IEEETrans.等国际期刊和CCF A类会议上发表论文20多篇。主持国家自然科学青年基金、国家“博士后创新人才支持计划”（博新计划）、上海市“超级博士后激励计划”。获得2016年CCF主办的全国多媒体技术学术会议“最佳论文奖”、2018年中国图象图形学学会优秀博士学位论文提名奖、2019年度中国图象图形学学会科学技术奖二等奖（排名第二）、2020年度教育部自然科学二等奖（排名第二）。
 
 ### 主要研究方向
-1. 图像处理（e.g., image enhancement, image inpainting, image denoise, image retargeting, video interpolation, etc）
-2. 计算机视觉（e.g., image retrievel, semantic segmentation）
-3. 智慧医疗（e.g., deep learning in microscopy imaging, diagnosis, prediction）
+1. 图像处理（image enhancement, image inpainting, image denoise, image retargeting, video interpolation/super-resolution）
+2. 计算机视觉（image retrievel, semantic segmentation）
+3. 智慧医疗（deep learning in microscopy imaging, diagnosis, prediction）
 
 ## 招生信息
 
@@ -61,3 +61,7 @@
 * Bo Yan, Chenxi Ma, Bahetiyaer Bare, Weimin Tan, Steven C. H. Hoi. Disparity-Aware Domain Adaptation in Stereo Image Restoration. CVPR 2020: 13176-13184
 * Bo Yan, Qing Lin, Weimin Tan, Shili Zhou. Assessing Eye Aesthetics for Automatic Multi-Reference Eye In-Painting. CVPR 2020: 13506-13514
 * Qing Lin, Bo Yan, Jichun Li, Weimin Tan. MMFL: Multimodal Fusion Learning for Text-Guided Image Inpainting. ACM Multimedia 2020: 1094-1102
+
+
+![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=${mintanwei.github.io})
+
