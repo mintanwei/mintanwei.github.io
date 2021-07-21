@@ -62,5 +62,5 @@
 * Bo Yan, Qing Lin, Weimin Tan, Shili Zhou. Assessing Eye Aesthetics for Automatic Multi-Reference Eye In-Painting. CVPR 2020: 13506-13514
 * Qing Lin, Bo Yan, Jichun Li, Weimin Tan. MMFL: Multimodal Fusion Learning for Text-Guided Image Inpainting. ACM Multimedia 2020: 1094-1102
 
-![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=${"mintanwei_mintanwei.github.io"})
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmintanwei.github.io%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
