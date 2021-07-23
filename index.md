@@ -1,5 +1,5 @@
-
-##  ⭐ Latest news (2021.07.01) 课题组有3篇论文被2021 ACM MM接收！
+##  ⭐ Latest news (2021.07.23) 课题组1篇论文被2021 ICCV接收！
+##  ⭐ Latest news (2021.07.01) 课题组3篇论文被2021 ACM MM接收！
 <br/>
 <img width="600" height="365" src="fd.jpg"/>
 <br/>
