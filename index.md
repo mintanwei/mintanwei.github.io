@@ -1,6 +1,6 @@
 ##  ⭐ Latest news (2021.07.23) 课题组1篇论文被2021 ICCV接收！
 ##  ⭐ Latest news (2021.07.01) 课题组3篇论文被2021 ACM MM接收！
-##  ⭐ Latest news 获2020年度[复旦大学“优秀博士后”](https://mp.weixin.qq.com/s/xoAtlh7N3dT2Px1uLbnxyQ)；
+##  ⭐ Latest news 获2021年度[复旦大学“优秀博士后”](https://mp.weixin.qq.com/s/xoAtlh7N3dT2Px1uLbnxyQ)！
 
 <br/>
 <img width="600" height="365" src="fd.jpg"/>
