@@ -5,10 +5,10 @@
 <img width="600" height="365" src="fd.jpg"/>
 <br/>
 
-### 谭伟敏 (Weimin Tan)
+### 谭伟敏 (Weimin Tan)，青年研究员
 <img width="125" height="148" src="wmtan.jpg"/>  Email: wmtan@fudan.edu.cn
 
-博士，中共党员，博士，复旦大学 计算机科学技术学院 青年研究员，硕士研究生导师。在IEEE TIP、TCSVT、TMM、CVPR、AAAI、ACM MM、GIE等IEEETrans.等国际期刊和CCF A类会议上发表论文20多篇，获2021年度[复旦大学“优秀博士后”](https://mp.weixin.qq.com/s/xoAtlh7N3dT2Px1uLbnxyQ)。
+博士，中共党员，博士，复旦大学 计算机科学技术学院，硕士研究生导师。在IEEE TIP、TCSVT、TMM、CVPR、AAAI、ACM MM、GIE等IEEETrans.等国际期刊和CCF A类会议上发表论文20多篇，获2021年度[复旦大学“优秀博士后”](https://mp.weixin.qq.com/s/xoAtlh7N3dT2Px1uLbnxyQ)。
 
 ### 主要研究方向
 1. 图像处理（image enhancement, image inpainting, image denoise, image retargeting, video interpolation/super-resolution）
